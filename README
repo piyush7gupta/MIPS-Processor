@@ -1,0 +1,6 @@
+In this assignment we have just extended the Assignment 9. 
+So in starting we set the values of the N and x and then in the 4th stage that is memory access stage if the instruction is memory based that is load or store 
+then I generate a random number between 0 to 1000 and divide it by 1000.
+Then if the value is less than x then I stalled the pipeline for N-1 stage otherwise not.
+
+All the other things are same as Assignment9.
